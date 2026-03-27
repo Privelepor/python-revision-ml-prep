@@ -5,6 +5,7 @@ This repository contains a **mini machine learning project** demonstrating **lin
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Dataset](#dataset)
+- [Feature](#features)
 
 ## Project Overview
 The goal of this project is to build and evaluate a **linear regression model** to predict bike-sharing demand. The workflow includes:
